@@ -132,3 +132,4 @@ dmypy.json
 # other
 *.Rproj
 .Rhistory
+README.html
