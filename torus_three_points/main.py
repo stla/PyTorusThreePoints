@@ -70,7 +70,7 @@ def transfoMatrix(p1, p2, p3):
 
 # main function #
 def torusThreePoints(
-          pvPlotter, p1, p2, p3, r, S=64, s=32, show=True, **kwargs
+          pvPlotter, p1, p2, p3, r, S=64, s=32, show=False, **kwargs
       ):
     """
     Add a torus to a pyvista plotter region.
