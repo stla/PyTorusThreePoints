@@ -6,6 +6,8 @@ Draw a torus passing through three given points.
 
 ![](https://github.com/stla/PyTorusThreePoints/raw/main/examples/example3.png)
 
+![](https://github.com/stla/PyTorusThreePoints/raw/main/examples/example4.png)
+
 ## Usage
 
 ```python
