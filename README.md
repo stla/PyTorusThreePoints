@@ -10,6 +10,8 @@ Draw a torus passing through three given points.
 
 ![](https://github.com/stla/PyTorusThreePoints/raw/main/examples/HopfFibration.png)
 
+![](https://github.com/stla/PyTorusThreePoints/raw/main/examples/HopfGreatCircle.gif)
+
 ## Usage
 
 ```python
