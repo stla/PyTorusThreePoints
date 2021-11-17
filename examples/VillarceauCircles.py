@@ -51,5 +51,5 @@ for N in range(30):
             pltr.show(screenshot="zpic_%03d.png" % i)
 
 os.system(
-    "magick convert -dispose previous -loop 0 -delay 10 zpic_*.png VillarceauCircles.gif"    
+    "magick convert -dispose previous -loop 0 -delay 12 zpic_*.png VillarceauCircles.gif"    
 )
