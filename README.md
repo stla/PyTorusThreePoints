@@ -14,6 +14,8 @@ Draw a torus passing through three given points.
 
 ![](https://github.com/stla/PyTorusThreePoints/raw/main/examples/CliffordCircles.gif)
 
+![](https://github.com/stla/PyTorusThreePoints/raw/main/examples/VillarceauCircles.gif)
+
 ## Usage
 
 ```python
