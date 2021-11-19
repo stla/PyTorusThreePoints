@@ -18,6 +18,8 @@ Draw a torus passing through three given points.
 
 ![](https://github.com/stla/PyTorusThreePoints/raw/main/examples/NestedCliffordCircles.gif)
 
+![](https://github.com/stla/PyTorusThreePoints/raw/main/examples/TwistedAstroidalClifford.gif)
+
 
 ## Usage
 
